@@ -110,7 +110,7 @@ Este proyecto fue desarrollado como parte de una actividad formativa enfocada en
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Juan Diego Domínguez**
 
